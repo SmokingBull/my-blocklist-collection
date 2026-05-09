@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 08.05.2026 09:28
+Stand: 09.05.2026 06:18
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -13,6 +13,7 @@ Stand: 08.05.2026 09:28
 ||04bsox5tuyzbhndhrkphxt8t.online^
 ||0538c3060b94774da3ee011552255739.top^
 ||069538.xyz^
+||06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com^
 ||0815cloud.de^
 ||084899.cn^
 ||098th189h98fh892.online^
@@ -92,6 +93,7 @@ Stand: 08.05.2026 09:28
 ||1163557739.rsc.cdn77.org^
 ||1195409979.rsc.cdn77.org^
 ||123-24.eport.gr^
+||123-proxy.net^
 ||123000123.xyz^
 ||123417.xyz^
 ||1234567890qwertyuiop.chikiyan.cl^
@@ -268,6 +270,7 @@ Stand: 08.05.2026 09:28
 ||1ee.top^
 ||1f47epzt.online^
 ||1f76a2ba920d.space^
+||1proxy.de^
 ||1qudbw7oug.duckdns.org^
 ||1svpn.biz^
 ||1svpn.com^
@@ -4497,6 +4500,7 @@ Stand: 08.05.2026 09:28
 ||dns.0x55.net^
 ||dns.13evl.com^
 ||dns.141664.xyz^
+||dns.23-4.cn^
 ||dns.233py.com.cdn.cloudflare.net^
 ||dns.240527.xyz^
 ||dns.2poi.com^
@@ -6429,6 +6433,7 @@ Stand: 08.05.2026 09:28
 ||enaevym08dequf033jdvbr.online^
 ||enclosr.co^
 ||enclypt.com^
+||encrypt-panicnitro.me^
 ||encrypt.me^
 ||encryptmy.name^
 ||end.creativelighting.co.za^

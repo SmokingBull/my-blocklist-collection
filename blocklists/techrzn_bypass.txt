@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 09.05.2026 06:18
+Stand: 10.05.2026 06:34
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -480,8 +480,10 @@ Stand: 09.05.2026 06:18
 ||517wszy.com^
 ||51caiyun.com^
 ||52lqvpn.com^
+||531274e80907f3a26c18dd8aabd4fca776d65870.com^
 ||53r6z.cn^
 ||54084db9b94f2fc62e22a2f4bf6cf17e.top^
+||5537955585be9a774f79ea792941d72404fe69d3.com^
 ||55780358.xyz^
 ||55aktnolkvuoctxitm.online^
 ||55clash.com^
@@ -711,6 +713,7 @@ Stand: 09.05.2026 06:18
 ||abhub1134.truckstore.ch^
 ||ablock.fuckit.ovh^
 ||abluehope.com^
+||aboba.pro^
 ||aboot.blank.crabdance.com^
 ||about.baltimorefellowship.org^
 ||about.blog.steveharrop.co.uk^
@@ -1336,6 +1339,7 @@ Stand: 09.05.2026 06:18
 ||agh3.server.my.id^
 ||agha.sunryu.site^
 ||aghdns.com^
+||agriculture.arts.bastaff.ru^
 ||ahaapi.com^
 ||ahadns.net^
 ||ahagad.com^
@@ -1380,6 +1384,7 @@ Stand: 09.05.2026 06:18
 ||ajh.academy^
 ||ajh.academy.cdn.cloudflare.net^
 ||ajh.boats^
+||ajh.college^
 ||ajh.college.cdn.cloudflare.net^
 ||ajh.eats-logi.lol^
 ||ajh.his.strangled.net^
@@ -1476,6 +1481,7 @@ Stand: 09.05.2026 06:18
 ||alon93rus.ru^
 ||alpha.cixy.xyz^
 ||alphabio.baodacn.cn^
+||alphabr.online^
 ||alphagame.co^
 ||alphalogic.sevecom.com^
 ||alphareading.blindatech.cl^
@@ -1563,6 +1569,7 @@ Stand: 09.05.2026 06:18
 ||anonine.com^
 ||anonproxy.org^
 ||anonto.pw^
+||anonvpn.io^
 ||anonwebproxy.com^
 ||anonymitynetwork.com^
 ||anonymize.com^
@@ -1721,6 +1728,7 @@ Stand: 09.05.2026 06:18
 ||apworld.navigogroup.cl^
 ||aq.iaalai.cn^
 ||aqpov.xyz^
+||aqua.bastaff.ru^
 ||aqua.is.my.waifu.cz^
 ||aracmtva.com^
 ||arashi.eu.org^
@@ -1804,6 +1812,7 @@ Stand: 09.05.2026 06:18
 ||asleep.zhangmuru.com^
 ||aspen.home.bog.ignorelist.com^
 ||aspheric-zombies.club^
+||assemblymenu.xyz^
 ||assets-prod-a230.s3.serverwild.com^
 ||assignments.lhost.dev^
 ||astarvpn.com^
@@ -2131,6 +2140,7 @@ Stand: 09.05.2026 06:18
 ||beibeiyunssr.com^
 ||belkavpn.com^
 ||bella.981377612.xyz^
+||belldream.xyz^
 ||bellproxy.com^
 ||belongdesert.com^
 ||beltruna.ru^
@@ -2658,6 +2668,7 @@ Stand: 09.05.2026 06:18
 ||bravedns.com^
 ||bravetrait.com^
 ||brazilproxy.com^
+||brazilproxy.info^
 ||brd-sdk-app-packages.s3.amazonaws.com^
 ||breakwall.net^
 ||brenvik.lol^
@@ -2922,6 +2933,7 @@ Stand: 09.05.2026 06:18
 ||canvas.com.primeflk.ch^
 ||canvas.homeonthewater.com^
 ||canvas.mom^
+||canvasarts.org^
 ||canvasarts.org.cdn.cloudflare.net^
 ||canvastuhsd.ignorelist.com^
 ||canvaworkstations.central.app.centrodiagnosticogenetico.com^
@@ -2953,6 +2965,7 @@ Stand: 09.05.2026 06:18
 ||casinovpn.com^
 ||cassiusthund.crabdance.com^
 ||casuary.beer^
+||catch.gift^
 ||catchcurrent.com^
 ||catchen121299.top^
 ||catcottage.us^
@@ -3163,6 +3176,7 @@ Stand: 09.05.2026 06:18
 ||chlaebi.synology.me^
 ||chnroute.com^
 ||chocolated.org^
+||choices.run^
 ||chongjin01.icu^
 ||chonglaicn.icu^
 ||chonglangmaoclash.com^
@@ -4576,6 +4590,7 @@ Stand: 09.05.2026 06:18
 ||dns.ashleyjackson.net^
 ||dns.asterimoon.com^
 ||dns.asysec.com^
+||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
@@ -4588,6 +4603,7 @@ Stand: 09.05.2026 06:18
 ||dns.b72.com^
 ||dns.bad-taste.app^
 ||dns.bai0012.com^
+||dns.baishiyuan.cn^
 ||dns.beardic.cn^
 ||dns.belnet.be^
 ||dns.bermeitinger.eu^
@@ -8959,6 +8975,7 @@ Stand: 09.05.2026 06:18
 ||idenitrust.com^
 ||ididabig.poo.li^
 ||iditinahuipidorasidagga.net^
+||idk.7btech.com^
 ||idk.komanda.cl^
 ||idk.lol-fr.bostoncareercounselor.com^
 ||idkkilo.accesscam.org^
@@ -10419,6 +10436,7 @@ Stand: 09.05.2026 06:18
 ||learnvcsa.sevecom.com^
 ||learnvcsa.thepresenttraveller.com^
 ||learnvcsa.unibutton.com^
+||leave-school.bastaff.ru^
 ||lebron.ftp.sh^
 ||lebronjames.chickenkiller.com^
 ||lecturestay.com^
@@ -14646,6 +14664,7 @@ Stand: 09.05.2026 06:18
 ||slope.educationmathgames.abrdns.com^
 ||slovovpn.help^
 ||sm5q237c0.g666gle.me^
+||smack.bastaff.ru^
 ||small-soul-737.guesstheanimal.org^
 ||smart-force-177.nowgg.me^
 ||smart-river-784.conwordable.com^
@@ -17826,6 +17845,7 @@ Stand: 09.05.2026 06:18
 ||yawn.affable.cloud-ip.cc^
 ||yawtt.net^
 ||yawzz.net^
+||yazaebalsyadelatproxy.uk^
 ||ybmtkbiq.com^
 ||ybqjaguuii0obex4w.online^
 ||ybqlymsu.com^

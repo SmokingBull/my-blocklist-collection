@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 10.05.2026 10:03
+Stand: 11.05.2026 07:43
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -4785,6 +4785,7 @@ Stand: 10.05.2026 10:03
 ||dns.fc.idv.tw^
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
+||dns.fifux.be^
 ||dns.filipccz.eu^
 ||dns.fizz.studio^
 ||dns.flatuslifir.is^
@@ -4800,6 +4801,7 @@ Stand: 10.05.2026 10:03
 ||dns.freemyemail.com^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
+||dns.friezer.eu^
 ||dns.froth.zone^
 ||dns.fsociety.club^
 ||dns.fulgore.fr^
@@ -7266,6 +7268,7 @@ Stand: 10.05.2026 10:03
 ||football.coach.vets.co.il^
 ||football.coaching2lead.com^
 ||footballresearch.sportconceptmedia.ru^
+||for-privacy.net^
 ||for-veto.ru^
 ||for.3cm.us^
 ||for.my.subscribers.gg.schools.l5.ca^
@@ -13797,6 +13800,7 @@ Stand: 10.05.2026 10:03
 ||rgvpn.cc^
 ||rh.kindlytouch.me^
 ||rh.teddynunyah.cfd^
+||rh4.ext.rocks^
 ||rhproxy.kozow.com^
 ||rhrplgsb.cc^
 ||richardo.net^
@@ -14057,6 +14061,7 @@ Stand: 10.05.2026 10:03
 ||sanfenssr.com^
 ||sanns.aniuo.com^
 ||santa.littlehelper.dinprima.ro^
+||saomai.dynu.com^
 ||saoudiproxy.info^
 ||sapphire.complex.abrdns.com^
 ||sarakou.easterndns.com^

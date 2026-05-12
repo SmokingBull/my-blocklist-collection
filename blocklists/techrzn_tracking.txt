@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 11.05.2026 07:43
+Stand: 12.05.2026 06:38
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -19411,6 +19411,7 @@ Stand: 11.05.2026 07:43
 ||aplobv.xexymix.com^
 ||aplus.alibaba.com^
 ||apm.mitismartbd.com^
+||apm.qwant.com^
 ||apm.tnet.nl^
 ||apmgmtication-spring.net.daraz.com^
 ||apnov-statnovc-stage.net.daraz.com^
@@ -22420,6 +22421,7 @@ Stand: 11.05.2026 07:43
 ||barnacle.tommybahama.com^
 ||barnacle.viewsource.io^
 ||barnesandnoble.tt.omtrdc.net^
+||barqueue.com^
 ||barracuda-trafficcsr11.net.daraz.com^
 ||barracuda.10-marketing.net.daraz.com^
 ||barracuda.carte-gr.total.fr^
@@ -25865,6 +25867,7 @@ Stand: 11.05.2026 07:43
 ||brioscoot.eccocar.com^
 ||brisa.tt.omtrdc.net^
 ||briskeagle.io^
+||briskedge.net^
 ||briskpelican.io^
 ||briskstorm.com^
 ||britishamericanshare.tt.omtrdc.net^
@@ -27953,6 +27956,7 @@ Stand: 11.05.2026 07:43
 ||cdp.cashback-cards.ch^
 ||cdp.cifinancial.com^
 ||cdp.getswisscard.ch^
+||cdp.howtotrade.com^
 ||cdp.miles-and-more-cards.ch^
 ||cdp.swisscard.ch^
 ||cdpdp.arcticcool.com^
@@ -28547,6 +28551,7 @@ Stand: 11.05.2026 07:43
 ||chinpakasoku.stage-bitchop.net.daraz.com^
 ||chip.met.vgwort.de^
 ||chip2gift.com^
+||chipcardice.com^
 ||chipmunk.sqltoapi.com^
 ||chipperisle.com^
 ||chiquita.backtobac.net^
@@ -36350,6 +36355,7 @@ Stand: 11.05.2026 07:43
 ||dd.garena.com^
 ||dd.leboncoin.fr^
 ||dd.nytimes.com^
+||dd.qwant.com^
 ||dd.seloger-bureaux-commerces.com^
 ||dd.seloger.com^
 ||dd.selogerneuf.com^
@@ -37492,7 +37498,6 @@ Stand: 11.05.2026 07:43
 ||dmetrictestapiw.rgsdocker.net.daraz.com^
 ||dmetrictestdocs-winter.net.daraz.com^
 ||dmf.dynamo-metalfest.nl^
-||dmg-libs.anm.co.uk^
 ||dmkoq.myaroma360.ca^
 ||dmkt.solutions.cas.org^
 ||dmlph.sundaycitizen.co^
@@ -38606,6 +38611,7 @@ Stand: 11.05.2026 07:43
 ||eastman.tt.omtrdc.net^
 ||easy.fixoem.com^
 ||easy0bark.com^
+||easysyncnews.com^
 ||easytax.net.jumia.com^
 ||eat.newtrina.com^
 ||eat9.thebeat925.ca^

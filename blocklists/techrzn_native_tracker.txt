@@ -1,5 +1,5 @@
 ### TechRZN - NATIVE_TRACKER ###
-Stand: 11.05.2026 07:43
+Stand: 12.05.2026 06:38
 
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -69,6 +69,7 @@ Stand: 11.05.2026 07:43
 ||ads.roku.com^
 ||ads.spotx.tv^
 ||ads.staging.roku.com^
+||adsbdfsiad-704007db1.heytapmobi.com^
 ||adservices.roku.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
@@ -682,6 +683,7 @@ Stand: 11.05.2026 07:43
 ||id-analyzer-appstore.vivoglobal.com^
 ||id-third-appstore.vivoglobal.com^
 ||id.push.heytapmobi.com^
+||idc.s.techhigh.adsbdfsiad-704007db1.heytapmobi.com^
 ||identity-dev.ads.roku.com^
 ||identity.ads.roku.com^
 ||iflow-in.browser.heytapmobile.com^
@@ -1098,6 +1100,7 @@ Stand: 11.05.2026 07:43
 ||rus-service-sg.allawnos.com^
 ||rus-service-us.allawnos.com^
 ||rwww.samsungotn.net^
+||s.techhigh.adsbdfsiad-704007db1.heytapmobi.com^
 ||samples.voice.cti.roku.com^
 ||samsungacr.com^
 ||samsungadhub.com^
@@ -1182,6 +1185,7 @@ Stand: 11.05.2026 07:43
 ||syncplusconfig.s3.amazonaws.com^
 ||t-id.ads.heytapmobile.com^
 ||t-in.ads.heytapmobile.com^
+||techhigh.adsbdfsiad-704007db1.heytapmobi.com^
 ||tr-album-api.vivoglobal.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
@@ -1248,6 +1252,7 @@ Stand: 11.05.2026 07:43
 ||victoria.logs.roku.com^
 ||vindicosuite.com^
 ||wallpaper-service-sg.allawnos.com^
+||webproxy.idc.s.techhigh.adsbdfsiad-704007db1.heytapmobi.com^
 ||weighted.logs.roku.com^
 ||wifi.ads.oppomobile.com^
 ||windsor.logs.roku.com^

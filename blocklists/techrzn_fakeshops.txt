@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 13.05.2026 06:50
+Stand: 13.05.2026 16:01
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -313,6 +313,7 @@ Stand: 13.05.2026 06:50
 ||aik-yr.shop^
 ||aikellyservices.com^
 ||aim-assist.de^
+||ainorton.com^
 ||ainvestments.biz^
 ||air-up-turkiye.com^
 ||air-uposterreich.at^
@@ -359,6 +360,7 @@ Stand: 13.05.2026 06:50
 ||aktion-motorrad.de^
 ||aktionheizung.de^
 ||aktivabenteuer.de^
+||aktivanzug.com^
 ||aktivimfreien.com^
 ||akulaku.me^
 ||akustikholz.shop^
@@ -629,6 +631,7 @@ Stand: 13.05.2026 06:50
 ||angelzubehoerladen.com^
 ||angenehme.de^
 ||angermaierwiesn.de^
+||angstrom-vos.de^
 ||angusz.com^
 ||anhaenger-geraete.com^
 ||anhaenger-von-thule.de^
@@ -650,6 +653,7 @@ Stand: 13.05.2026 06:50
 ||anhangerr.com^
 ||anhangershop.com^
 ||anhangershop24.com^
+||anhor-sports.shop^
 ||ani--zoo.com^
 ||animalsbaby.com^
 ||animationsummer.at^
@@ -1043,6 +1047,7 @@ Stand: 13.05.2026 06:50
 ||autosbios.com^
 ||autoseries.de^
 ||autoteile-christa.at^
+||autoteile-deutschland.com^
 ||autoteile-kt.de^
 ||autoteile-waschlowsky.de^
 ||autoteiledirektde.com^
@@ -1137,6 +1142,7 @@ Stand: 13.05.2026 06:50
 ||babybay-de.com^
 ||babybeddingdesign.com^
 ||babybox-schweiz.ch^
+||babybubblestore.com^
 ||babyglueckshop.com^
 ||babylissde.de^
 ||babymarkt-deshop.com^
@@ -1551,6 +1557,7 @@ Stand: 13.05.2026 06:50
 ||bestmedhealth.com^
 ||bestoil24.de^
 ||bestoil24.net^
+||bestonlinecasinoliste.de^
 ||bestoutdoorsgearshop.com^
 ||bestoutfit.store^
 ||bestoutlet-tool.com^
@@ -1599,9 +1606,11 @@ Stand: 13.05.2026 06:50
 ||bforbroker.com^
 ||bforex.com^
 ||bfxoption.com^
+||bglshop.at^
 ||bgtcchem.shop^
 ||bhajandarshan.com^
 ||bhmbp.com^
+||bhubbeauty.de^
 ||biabe.de^
 ||bicelio.com^
 ||bicicletemagazin.com^
@@ -1631,6 +1640,7 @@ Stand: 13.05.2026 06:50
 ||bighomelife.com^
 ||bigoption.com^
 ||bigsex.is^
+||bigskysaunas.com^
 ||bigsofasde.de^
 ||bigstoregaming.com^
 ||bike-components-de.com^
@@ -1683,6 +1693,7 @@ Stand: 13.05.2026 06:50
 ||biladishop.com^
 ||bilago.com^
 ||bildhauerey.de^
+||bildsieg.com^
 ||billa.prizmar.at^
 ||billabong.com.de^
 ||billabongcanada.net^
@@ -1845,6 +1856,7 @@ Stand: 13.05.2026 06:50
 ||bloomplot.com^
 ||bloomszone.com^
 ||blsindiavisa.kr^
+||bltyydzv.shop^
 ||bludexe.com^
 ||bluebellalingerie.com^
 ||blueblom.com^
@@ -2005,6 +2017,7 @@ Stand: 13.05.2026 06:50
 ||brecit.com^
 ||bredyshopper.de^
 ||breezekiss.shop^
+||breitbandangebote.de^
 ||breitkamp.com^
 ||breitner-berlin.de^
 ||bremer-boutique.de^
@@ -3006,6 +3019,7 @@ Stand: 13.05.2026 06:50
 ||dach-remscheid.de^
 ||dachdeko.com^
 ||dachlust.com^
+||dacimmo.com^
 ||dackeltraum.com^
 ||dackelwelpen.at^
 ||daddeln.net^
@@ -4109,6 +4123,7 @@ Stand: 13.05.2026 06:50
 ||energeticw.com^
 ||energfahrrad.de^
 ||energieausweis-fuer-verkauf.at^
+||energiefach.com^
 ||energieheizen.de^
 ||energiekick.at^
 ||energiepreise24.com^
@@ -4677,6 +4692,7 @@ Stand: 13.05.2026 06:50
 ||feelgoodcamper24.de^
 ||feelrational.com^
 ||feeltrade.com^
+||feinkleidung.com^
 ||feinstesporzellan.com^
 ||feinstezierfische.com^
 ||feixunseo.com^
@@ -5986,6 +6002,7 @@ Stand: 13.05.2026 06:50
 ||gut-werkzeug.com^
 ||guteapotheke.org^
 ||guteholzheizung.de^
+||gutekredit.com^
 ||guten.store^
 ||guterkauf.com^
 ||guterkauf.com.de^
@@ -6174,6 +6191,7 @@ Stand: 13.05.2026 06:50
 ||haus-kaufen-istrien.de^
 ||haus-marienthal.de^
 ||haus-naturholz.com^
+||haus-wein.com^
 ||haus-winterfeld.de^
 ||hausdampf.com^
 ||hauselektro.shop^
@@ -7381,6 +7399,7 @@ Stand: 13.05.2026 06:50
 ||jncojeans.de^
 ||jo-joshop.com^
 ||joanoks.com^
+||jobam.shop^
 ||jobdreamonline.com^
 ||jobhelden.com^
 ||jobparadies.de^
@@ -7598,6 +7617,7 @@ Stand: 13.05.2026 06:50
 ||kaminkehrer-dachau.com^
 ||kaminoland.de^
 ||kammerjaeger-fischer.de^
+||kammerjaeger-hoffmeyer.de^
 ||kammerjaeger-notruf.at^
 ||kamodygarten.de^
 ||kamoni.de^
@@ -7654,6 +7674,7 @@ Stand: 13.05.2026 06:50
 ||kasami.shop^
 ||kash-leone.fr^
 ||kashefcog.com^
+||kasperfit.com^
 ||kassecap.com^
 ||katana-deutschland.de^
 ||katemond.de^
@@ -7978,6 +7999,7 @@ Stand: 13.05.2026 06:50
 ||kraftdesweins.com^
 ||kraftholz-pellet.shop^
 ||kraftholz.shop^
+||kraftraumpro.com^
 ||kraftwerk-solar.com^
 ||krahl-container.eu^
 ||krakenaccess.com^
@@ -8127,6 +8149,7 @@ Stand: 13.05.2026 06:50
 ||landandwateres.com^
 ||landepend.com^
 ||landkaffee.com^
+||landmaschinen-deutschland.de^
 ||landscapek.com^
 ||lanetech.de^
 ||lankis-welt.com^
@@ -8428,6 +8451,7 @@ Stand: 13.05.2026 06:50
 ||limondo.shop^
 ||limoza.de^
 ||linashop.de^
+||linavellegoods.com^
 ||lindbergmode.de^
 ||linde-gmbh.com^
 ||lindela.de^
@@ -8519,6 +8543,7 @@ Stand: 13.05.2026 06:50
 ||loftmyhub.com^
 ||lofza.com^
 ||log.acces-btpanda.com^
+||loggiawelt.com^
 ||logiheat.de^
 ||login.parsev.com^
 ||logitecheu.it.com^
@@ -9375,6 +9400,7 @@ Stand: 13.05.2026 06:50
 ||mkc-invest.com^
 ||mkdfx.fr^
 ||mkentertainment.nl^
+||mkijnds.shop^
 ||mkleid.de^
 ||mknen.com^
 ||mkt.oeamtc.at^
@@ -9992,6 +10018,7 @@ Stand: 13.05.2026 06:50
 ||neubootsladen.com^
 ||neueberlin.de^
 ||neuedamen.de^
+||neueonlinecasinoliste.de^
 ||neuertm7-vorwerk.com^
 ||neueseudokument.com^
 ||neuespielzeugauto.com^
@@ -10175,6 +10202,7 @@ Stand: 13.05.2026 06:50
 ||nordic-app.de^
 ||nordic-pellets.de^
 ||nordicasaunashop.shop^
+||nordicasaunastore.shop^
 ||nordicci.de^
 ||nordicdecor.de^
 ||nordicglimmer.com^
@@ -10552,6 +10580,7 @@ Stand: 13.05.2026 06:50
 ||onlinebedroom.com^
 ||onlinebeleuchtung.com^
 ||onlinebluberri.com^
+||onlinecasinodeutschliste.de^
 ||onlinecda.pl^
 ||onlinedamen.de^
 ||onlinedrugsnorx.com^
@@ -11286,6 +11315,7 @@ Stand: 13.05.2026 06:50
 ||porlabs.com^
 ||portablecoolerpro.com^
 ||portal.mybeautyplans.com^
+||portaqua.shop^
 ||porte-monnaie.de^
 ||portefeuillephoto.com^
 ||portesdunet.com^
@@ -11500,6 +11530,7 @@ Stand: 13.05.2026 06:50
 ||pukkashopeu.com^
 ||pulitocat.com^
 ||pullcamin.com^
+||pulse-estate.com^
 ||pulsefinance.de^
 ||pumafi.com^
 ||pummys.com^
@@ -11594,6 +11625,7 @@ Stand: 13.05.2026 06:50
 ||quotationi.com^
 ||quotex.com.in^
 ||qusero.com^
+||qvhkhyn.shop^
 ||qwinout.com^
 ||qzzfg7zy0r.online^
 ||r7-bike.com^
@@ -11608,6 +11640,7 @@ Stand: 13.05.2026 06:50
 ||rabattfahrrad.com^
 ||rabattfahrradneu.com^
 ||rabattfahrradteile.de^
+||rabattfornasetti.de^
 ||rabattgabor.de^
 ||rabatthaustiers.com^
 ||rabattlampen.com^
@@ -11741,6 +11774,7 @@ Stand: 13.05.2026 06:50
 ||recetasplus.com^
 ||rechtsanwalt-scheer.net^
 ||rechtsanwalt-sirrenberg.de^
+||rechtund-gesetz.com^
 ||recollectk.com^
 ||recordkontor.de^
 ||recovery-office.com^
@@ -11749,6 +11783,7 @@ Stand: 13.05.2026 06:50
 ||redmont-fin.com^
 ||redstarchain.com^
 ||reduktionszone.de^
+||redwing.at^
 ||reebok-schuhe.de^
 ||reebokoutlet.de^
 ||reelmasterde.com^
@@ -11776,6 +11811,7 @@ Stand: 13.05.2026 06:50
 ||reifkogel24.de^
 ||reignsprime.com^
 ||reilesenthel.de.com^
+||reimers-partner.de^
 ||reindesign-garten.de^
 ||reindesigner-handel.de^
 ||reineblume.de^
@@ -11797,6 +11833,7 @@ Stand: 13.05.2026 06:50
 ||reisetaschenonshop.com^
 ||reisetaschensale.com^
 ||reiseweltat6.wixsite.com^
+||reisholzgmbh.de^
 ||reishungers.com^
 ||reisonthelsen.de.com^
 ||reitz-handel.de^
@@ -11865,19 +11902,23 @@ Stand: 13.05.2026 06:50
 ||reshline.com^
 ||resid3ncy.com^
 ||resolutionoperations.com^
+||resolved.defisolution.net^
 ||resources4gaming.com^
 ||respeaonsct.com^
 ||restchess.com^
 ||restliss.com^
+||retail-merwede.nl^
 ||retailbbq.com^
 ||retailchemy.com^
 ||retentionh.com^
+||retourenheld.io^
 ||retreature.com^
 ||retrogamingshop.de^
 ||retrostages.de^
 ||retrotrikots.de^
 ||retrowinegeschaft.com^
 ||reubenco.com^
+||reuterstoday.com^
 ||revaloninvest.de^
 ||revanced-extended.com^
 ||revancedmusic.com^
@@ -11905,6 +11946,7 @@ Stand: 13.05.2026 06:50
 ||rezeptfrei-bestellung.de^
 ||rezeptfreie-potenzmittel-24.eu^
 ||rfshoping.com^
+||rftltd.com^
 ||rgoconnell.com^
 ||rheimz.de^
 ||rhein-trends24.de^
@@ -11955,11 +11997,13 @@ Stand: 13.05.2026 06:50
 ||rinstudio.de^
 ||riokapital.com^
 ||riokapital.eu^
+||rip-curl.co.at^
 ||riptidesoccer.org^
 ||rise-property.com^
 ||risora.de^
 ||rissionshop.de^
 ||ritter-mode.com^
+||ritteroutlet.de^
 ||rituals-nl.shop^
 ||rituals-outlet.shop^
 ||ritualsecretododesligue.shop^
@@ -11973,6 +12017,7 @@ Stand: 13.05.2026 06:50
 ||rivierecapital.pro^
 ||rivonza.de^
 ||rivorna.de^
+||riyusa.com^
 ||rjgriffith.com^
 ||rkase.com^
 ||rkw-gmbh.de^
@@ -11985,6 +12030,7 @@ Stand: 13.05.2026 06:50
 ||roadkultur.de^
 ||roamanwear.com^
 ||robalmeister.workers.dev^
+||robbylake.com^
 ||robelity.com^
 ||robelshoes.at^
 ||robinhood-563824.com^
@@ -12017,6 +12063,7 @@ Stand: 13.05.2026 06:50
 ||rockportshoesmexico.com^
 ||rockporttr.com^
 ||rockportzapatos.com^
+||rockshoxrabatt.com^
 ||rockwell-berlin.de^
 ||rockwithyou.de^
 ||rocolee.com^
@@ -12029,6 +12076,7 @@ Stand: 13.05.2026 06:50
 ||rohrreinigung-rothschild.de^
 ||rohrreinigungshilfe.at^
 ||rohrsanierungen24.de^
+||roleo.net^
 ||rolex-replica.to^
 ||rolexwanduhr.de^
 ||rolexyeals.com^
@@ -12042,6 +12090,7 @@ Stand: 13.05.2026 06:50
 ||rollingslotsonline.de^
 ||rollladenjalousie.com^
 ||rollstuhlzubehor.com^
+||romalo.de^
 ||romanticg.com^
 ||romantichos.com^
 ||romantichosp.com^
@@ -12074,6 +12123,7 @@ Stand: 13.05.2026 06:50
 ||rosesealiy.com^
 ||rosewoo.com^
 ||rossignol.com.de^
+||rossmannoutlet.shop^
 ||rostikuche.com^
 ||rostock24.com^
 ||rostockhaf.de^
@@ -12089,6 +12139,7 @@ Stand: 13.05.2026 06:50
 ||roulettegem.com^
 ||routermeister24.myshopify.com^
 ||routinefashiones.com^
+||roxyaustria.com^
 ||roxydubai.com^
 ||roxyski.de^
 ||royaldebank.com^
@@ -12101,6 +12152,7 @@ Stand: 13.05.2026 06:50
 ||royusionalty.com^
 ||rozomii.info^
 ||rrsstore.com^
+||rs-remorque.com^
 ||rsaonlinenow.com.au^
 ||rtieej.buzz^
 ||rubberweekly.com^
@@ -12128,7 +12180,9 @@ Stand: 13.05.2026 06:50
 ||russellandbromley.de^
 ||russellbromleydeutschland.com^
 ||russellnbromleycanada.com^
+||russiannewstoday.com^
 ||russmohl.de^
+||rustarium.top^
 ||rustdesk.co.nz^
 ||rustdesk.io^
 ||rustdesk.pl^
@@ -12203,12 +12257,14 @@ Stand: 13.05.2026 06:50
 ||salegermaniatools.com^
 ||salehealthfoods.com^
 ||salelanawelpen.de^
+||salemart.online^
 ||salemeds24.com^
 ||saleroadvwx.com^
 ||sales-deere.de^
 ||salesaddle.com^
 ||salesappv51.de^
 ||salesceramic.com^
+||salescomplex.com^
 ||salesconsulter.de^
 ||salesdaddymasterclass.com^
 ||saleshedet.click^
@@ -12284,6 +12340,7 @@ Stand: 13.05.2026 06:50
 ||saramaud.com^
 ||sarasarade.shop^
 ||sarlcresmar.com^
+||sarlprofildiffusion.com^
 ||saroni-handel.de^
 ||sarvamits.com^
 ||saskiabader.de^
@@ -12329,6 +12386,7 @@ Stand: 13.05.2026 06:50
 ||schickort.de^
 ||schiffbootsteile.com^
 ||schildbaum-gartencenter.de^
+||schlafglanz.com^
 ||schlafhimmel.com^
 ||schlaftabletten-rezeptfrei.org^
 ||schlagschrauberfive.com^
@@ -12375,6 +12433,7 @@ Stand: 13.05.2026 06:50
 ||schockemohleonlinestore.shop^
 ||schoeppe-heizoel.de^
 ||schoettler-kanzlei.de^
+||scholarathelite.com^
 ||schonedamenmode.com^
 ||schonentag.online^
 ||schoneswetter.de^
@@ -12391,6 +12450,7 @@ Stand: 13.05.2026 06:50
 ||schuheverkauf-de.com^
 ||schuhewienshoponline.com^
 ||schuhhaus-greten.de^
+||schuhheld.com^
 ||schuhschritte.com^
 ||schulte-boutique.de^
 ||schultemode.de^
@@ -12417,11 +12477,13 @@ Stand: 13.05.2026 06:50
 ||scooter-chip.de^
 ||scorecope.com^
 ||scoterwelt.com^
+||scotlandnewstoday.com^
 ||scottsummer.shop^
 ||scoutandspark.shop^
 ||screenacy.co^
 ||screenfreedays.com^
 ||screenwithenvy.de^
+||scremorques.com^
 ||scubapro-sale.shop^
 ||scuffers-austria.com^
 ||sculpturk.com^
@@ -12484,6 +12546,7 @@ Stand: 13.05.2026 06:50
 ||selorentiva.com^
 ||seminariovirtual.org^
 ||semipool.store^
+||semvio.com^
 ||senade.de^
 ||sendrasuomi.net^
 ||sendrawien.at^
@@ -12501,6 +12564,7 @@ Stand: 13.05.2026 06:50
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
+||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
@@ -12576,6 +12640,7 @@ Stand: 13.05.2026 06:50
 ||shirtsandpolosde.com^
 ||shirtspolos.com^
 ||shirttest.com^
+||shmdesigns.com^
 ||shoe-designers.com^
 ||shoe-onsale.com^
 ||shoeaddic.com^
@@ -12601,6 +12666,7 @@ Stand: 13.05.2026 06:50
 ||shop-discounts.com^
 ||shop-nuviva.com^
 ||shop-pecuni.at^
+||shop-pharmacie-france.com^
 ||shop-pharmacie-france.net^
 ||shop-retailer.com^
 ||shop-root.eu^
@@ -12631,6 +12697,7 @@ Stand: 13.05.2026 06:50
 ||shopanera.com^
 ||shopbagwallet.com^
 ||shopbikeclothes.com^
+||shopbuyzone.com^
 ||shopcaravangas.com^
 ||shopdapperkicks.com^
 ||shopdecorlight.com^
@@ -12639,6 +12706,7 @@ Stand: 13.05.2026 06:50
 ||shoperando.com^
 ||shopexbr.com^
 ||shopfaciloja.com^
+||shopfasts.shop^
 ||shopfishermansworld.com^
 ||shopfloragalora.com^
 ||shopgamefishing.com^
@@ -12653,6 +12721,7 @@ Stand: 13.05.2026 06:50
 ||shopkrone.de^
 ||shoplabubuland.com^
 ||shoplazo.com^
+||shopleo.de^
 ||shoplivinghome.com^
 ||shoplostfounde.shop^
 ||shoplyt.store^
@@ -12755,10 +12824,12 @@ Stand: 13.05.2026 06:50
 ||singlespeedde.com^
 ||singpro-shopify-com.myshopify.com^
 ||sinhala.de^
+||sinu24.de^
 ||siorra.nl^
 ||siouxshoe.com^
 ||sipsbyde.shop^
 ||sischon.com^
+||sitap.at^
 ||site-shoes.com^
 ||sitepharmacom.com^
 ||siteusefultool.com^
@@ -12856,6 +12927,7 @@ Stand: 13.05.2026 06:50
 ||smartsteamershop.com^
 ||smartundgeizig.de^
 ||smartuniswap.xyz^
+||smartwaerme.com^
 ||smileclothing.com^
 ||smilestyle.at^
 ||smitdeals.de^
@@ -12870,7 +12942,9 @@ Stand: 13.05.2026 06:50
 ||snckhor-materiaux.com^
 ||sneakermood.eu^
 ||sneakers-metzingen.de^
+||sneakersberlin.de^
 ||sneakersgermanyonline.com^
+||sneakwelt.com^
 ||sneawin.com^
 ||sngartenbau.de^
 ||snitactical.com^
@@ -12920,6 +12994,7 @@ Stand: 13.05.2026 06:50
 ||solandis.com^
 ||solanex.de^
 ||solanik.de^
+||solanix.de^
 ||solanzo.de^
 ||solar-energie24.com^
 ||solar-liquid.de^
@@ -12962,6 +13037,7 @@ Stand: 13.05.2026 06:50
 ||solovaircanada.net^
 ||solovairchile.net^
 ||solovairgreece.net^
+||solovairschuhe.com^
 ||solovairschuhe.de^
 ||solovairschuhede.de^
 ||solovairshop.com^
@@ -13244,6 +13320,7 @@ Stand: 13.05.2026 06:50
 ||stienen-damast.de^
 ||stihlg.com^
 ||stil-mode.de^
+||stilblazer.com^
 ||stilehaus.de^
 ||stilejx.stilop.mom^
 ||stilgut-wien.at^
@@ -13725,6 +13802,7 @@ Stand: 13.05.2026 06:50
 ||test-iq-online.com^
 ||test4.com^
 ||testcortiy.com^
+||testdomain2.org^
 ||testereo.com^
 ||testorino.de^
 ||tether-group.com^
@@ -13917,6 +13995,7 @@ Stand: 13.05.2026 06:50
 ||tierbedarfshop.com^
 ||tierfreundeonline.com^
 ||tierfuttergeschaft.com^
+||tierleckerli.com^
 ||tiernahrungoutlet.com^
 ||tierparadies-de.com^
 ||tierpflegeprodukte.com^
@@ -14476,6 +14555,7 @@ Stand: 13.05.2026 06:50
 ||uoozy.com^
 ||up2sales.de^
 ||upap-papu.post^
+||upecho.pcmachine.shop^
 ||upgradeoutdoors.com^
 ||upifex.com^
 ||uplements.de^
@@ -14980,6 +15060,7 @@ Stand: 13.05.2026 06:50
 ||volture.de^
 ||voltus-elektroshop.de^
 ||volvax.de^
+||von-kronen.com^
 ||vonauto.de^
 ||vondaro.de^
 ||vookiz.com^
@@ -15193,6 +15274,7 @@ Stand: 13.05.2026 06:50
 ||weinemotionen.de^
 ||weinesprituosen.com^
 ||weinfreunoutlet.com^
+||weinfrisch.com^
 ||weinmarkt-potsdam.de^
 ||weinonlinestore.com^
 ||weinrabatt.com^
@@ -15203,6 +15285,7 @@ Stand: 13.05.2026 06:50
 ||weissweinrabatt.de^
 ||wekos.fr^
 ||welcherweinzu.de^
+||weleda.sa.com^
 ||welfarek.com^
 ||wellawhite.com^
 ||wellen-steyn.de^

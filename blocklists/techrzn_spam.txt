@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 13.05.2026 16:01
+Stand: 14.05.2026 06:47
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -98733,7 +98733,6 @@ Stand: 13.05.2026 16:01
 ||kr38.dreamteam-fs.com^
 ||kraft360.de^
 ||kraftvoll.jetzt^
-||kraken.com^
 ||krakentalk.com^
 ||kralbet110.com^
 ||kralovskasrdcovka.cz^

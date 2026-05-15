@@ -1,5 +1,5 @@
 ### TechRZN - BYPASS ###
-Stand: 15.05.2026 06:57
+Stand: 15.05.2026 18:41
 
 ||0.6gpaactivities.bastaff.ru^
 ||0.6gpaactivities.pce-cihazlari.com.tr^
@@ -10,7 +10,6 @@ Stand: 15.05.2026 06:57
 ||02akgaayi2fi3xkdi13s0jtxj.online^
 ||041ad0cfb636.xyz^
 ||04a0f262f2f391ead91af1f0ecc6ef3a.top^
-||04bsox5tuyzbhndhrkphxt8t.online^
 ||0538c3060b94774da3ee011552255739.top^
 ||069538.xyz^
 ||06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com^
@@ -20,7 +19,6 @@ Stand: 15.05.2026 06:57
 ||09vpn.com^
 ||0a7velfsvpgyy.online^
 ||0ms.dev^
-||0olnsejxo1cbravdmlarpeb.online^
 ||0vercl0aked.ignorelist.com^
 ||0x3d.lu^
 ||1-snowbunny-vs-5-black-guys.latinliturgy.com^
@@ -261,7 +259,6 @@ Stand: 15.05.2026 06:57
 ||1940108038.rsc.cdn77.org^
 ||1982070091.rsc.cdn77.org^
 ||1a.ns.ozer.im^
-||1aclash.com^
 ||1and1-dns.de^
 ||1b.ns.ozer.im^
 ||1bfwu5d5n.online^
@@ -344,7 +341,6 @@ Stand: 15.05.2026 06:57
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
 ||2govpn.com^
-||2kclash.com^
 ||2mrk0bvkkye.online^
 ||2ndi38rufidhdiwu.ilogica-soluciones.cl^
 ||2poigv.xyz^
@@ -17043,6 +17039,7 @@ Stand: 15.05.2026 06:57
 ||vpnshieldapp.com^
 ||vpnside.com^
 ||vpnsites.com^
+||vpnstatus.site^
 ||vpnstore.help^
 ||vpnstunnel.com^
 ||vpnsuper.app^

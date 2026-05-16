@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 15.05.2026 18:41
+Stand: 16.05.2026 06:23
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -24,7 +24,6 @@ Stand: 15.05.2026 18:41
 ||1eurotip.com^
 ||1f6seh-tk.myshopify.com^
 ||1m2.fr^
-||1n.yarrid.com^
 ||1netzteil.de^
 ||1onlinejobs.com^
 ||1preis.com^
@@ -682,6 +681,7 @@ Stand: 15.05.2026 18:41
 ||animationsummer.at^
 ||animefigure.de^
 ||animefigureworld.com^
+||animeshoppers.com^
 ||ankaufo.de^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
@@ -8019,6 +8019,7 @@ Stand: 15.05.2026 18:41
 ||kidzly.at^
 ||kigurumi-usa.com^
 ||killenclinical.com^
+||killercharm.com^
 ||kilokits.com^
 ||kilometeru.com^
 ||kilowen.com^
@@ -9041,7 +9042,6 @@ Stand: 15.05.2026 18:41
 ||m-b-grosshandel.de^
 ||m.bit2meua.com^
 ||m.blockchaintransactions.cc^
-||m.coinexeu.vip^
 ||m.daefox.com^
 ||m.kaufjoy.de^
 ||m.lavonde.de^
@@ -9969,6 +9969,7 @@ Stand: 15.05.2026 18:41
 ||msc-beratung.de^
 ||mseminar.com^
 ||msf.global^
+||msgclick.top^
 ||mslfgl434.pages.dev^
 ||msmmetallindustry.com^
 ||msnanty.com^
@@ -10775,6 +10776,7 @@ Stand: 15.05.2026 18:41
 ||oiltrex.de^
 ||oilvinegarmarket.shop^
 ||oins.shop^
+||ojlkimed.vip^
 ||ojoro-tech.de^
 ||okatode.com^
 ||okbon.de^
@@ -11943,7 +11945,6 @@ Stand: 15.05.2026 18:41
 ||qq51f.short.gy^
 ||qredhaus.de^
 ||qrixvetra.com^
-||qttlpn.shop^
 ||quadrals.de^
 ||qualiprodukt.de^
 ||qualishopde.de^
@@ -12902,7 +12903,6 @@ Stand: 15.05.2026 18:41
 ||secrettime.shop^
 ||secrity2redline.com^
 ||secure.selure.de^
-||secure.staging.demo.www1.transaction-processing.one^
 ||secureinvest.org^
 ||securemed.shop^
 ||securemedsshop.com^
@@ -13277,6 +13277,7 @@ Stand: 15.05.2026 18:41
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
+||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skispeichern.com^

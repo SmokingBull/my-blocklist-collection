@@ -1,5 +1,5 @@
 ### TechRZN - SPAM ###
-Stand: 17.05.2026 06:46
+Stand: 17.05.2026 19:32
 
 ||0-2spk-us.basecamp.app^
 ||0-amfauth.firebaseapp.com^
@@ -87664,7 +87664,6 @@ Stand: 17.05.2026 06:46
 ||heroesgame.com^
 ||heroespoker.com^
 ||heroinehobbies.com^
-||herokuapp.com^
 ||herompghysdtba.store^
 ||heropzare.shop^
 ||herotoken.io^

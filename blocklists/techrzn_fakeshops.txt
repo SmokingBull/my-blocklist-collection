@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 17.05.2026 20:11
+Stand: 18.05.2026 08:06
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -381,6 +381,7 @@ Stand: 17.05.2026 20:11
 ||albimo.shop^
 ||albrechtmode.de^
 ||alderhofatelier.myshopify.com^
+||aldi-life.vip^
 ||aldo.co.at^
 ||aldobolsasmexico.com^
 ||aldofashion.com^
@@ -682,7 +683,6 @@ Stand: 17.05.2026 20:11
 ||animationsummer.at^
 ||animefigure.de^
 ||animefigureworld.com^
-||animeshoppers.com^
 ||ankaufo.de^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
@@ -5007,6 +5007,7 @@ Stand: 17.05.2026 20:11
 ||fitflopromania.com^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.download^
+||fitgirl-repacks.vip^
 ||fitiwelt.com^
 ||fitliebe.de^
 ||fitness-7.de^
@@ -7482,6 +7483,7 @@ Stand: 17.05.2026 20:11
 ||itemdohome.com^
 ||itemunusual.com^
 ||itguruu.com^
+||itq.cuteclub.org^
 ||itrolexshop.com^
 ||itseasy.com^
 ||ivannd.com^
@@ -8927,7 +8929,6 @@ Stand: 17.05.2026 20:11
 ||luckyyise.com^
 ||lucrabot-gpt.net^
 ||lucyloopshop.com^
-||lucysstyle.com^
 ||ludwigmaria.at^
 ||luffglasses.com^
 ||lukamode.de^
@@ -9031,7 +9032,6 @@ Stand: 17.05.2026 20:11
 ||lyveroscentrix.com^
 ||m-b-grosshandel.de^
 ||m.bit2meua.com^
-||m.coinexeu.vip^
 ||m.kaufjoy.de^
 ||m.lavonde.de^
 ||m.vbridal.com^
@@ -9121,7 +9121,6 @@ Stand: 17.05.2026 20:11
 ||malen-und-reisen.de^
 ||malens-boutique.de^
 ||malerbedarf-sales.com^
-||malgorzataschlegel.click^
 ||mall-outdoors.com^
 ||mallof.shop^
 ||mallorca-partner.com^
@@ -15845,6 +15844,7 @@ Stand: 17.05.2026 20:11
 ||warmlogic.de^
 ||warmood.ch^
 ||warmthsta.com^
+||warriordecor.com^
 ||wascheparfume.de^
 ||waschzone.com^
 ||washingtontimesnewstoday.com^

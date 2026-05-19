@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 18.05.2026 08:06
+Stand: 19.05.2026 07:49
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -53823,7 +53823,6 @@ Stand: 18.05.2026 08:06
 ||kimkgj.bibloo.pl^
 ||kincomingbemarketing.net.daraz.com^
 ||kindasingle.com^
-||kindhush.com^
 ||kindlaundry.rdtrke.com^
 ||kindlereunion.com^
 ||kinesis.us-east-1.analytics.edmentum.com^
@@ -95438,6 +95437,7 @@ Stand: 18.05.2026 08:06
 ||ss.heatxperts.com^
 ||ss.hedgesdirect.co.uk^
 ||ss.helgstranddressage.com^
+||ss.hellotushy.com^
 ||ss.henriks-hotel.com^
 ||ss.henryarcher.com^
 ||ss.hepl.ch^
@@ -114754,6 +114754,7 @@ Stand: 18.05.2026 08:06
 ||turtle.mushtache.com^
 ||turtle.mydataroom.io^
 ||turtle.sid.scot^
+||turtleface.net^
 ||tus1iptahdpin01.net.jumia.cm^
 ||tusk-au.happymammoth.com^
 ||tusk-eu.happymammoth.com^
@@ -117447,6 +117448,7 @@ Stand: 18.05.2026 08:06
 ||wavzlt.michaelstars.com^
 ||waxsirens.com^
 ||wayjoyfarm.com^
+||waylowrates.net^
 ||wayyaj8t094u.www.kodalia.com^
 ||waz.met.vgwort.de^
 ||wb.winnerbatterien.de^

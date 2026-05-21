@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 21.05.2026 00:00
+Stand: 21.05.2026 07:57
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -240,7 +240,6 @@ Stand: 21.05.2026 00:00
 ||adler-energie.de^
 ||adllwyj67.wuhlzk.shop^
 ||adlz.ekyyq.shop^
-||admin.ozon.id601294105.date^
 ||adminicesm.life^
 ||admiral-markets.com^
 ||admiralmarketsltd.com^
@@ -5343,7 +5342,6 @@ Stand: 21.05.2026 00:00
 ||fribooverkauf.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frieda-taschen.de^
 ||friedaskitchen.de^
 ||friedberg-mode.de^
@@ -5661,6 +5659,7 @@ Stand: 21.05.2026 00:00
 ||gearhomies.com^
 ||gearhuman.com^
 ||gearshifted.com^
+||gearstastic.com^
 ||gearver.com^
 ||gebaeudevorsorge.de^
 ||gebra-gartenhandel.de^
@@ -7571,6 +7570,7 @@ Stand: 21.05.2026 00:00
 ||itemdohome.com^
 ||itemunusual.com^
 ||itguruu.com^
+||itq.cuteclub.org^
 ||itrolexshop.com^
 ||itseasy.com^
 ||ivannd.com^
@@ -11441,6 +11441,7 @@ Stand: 21.05.2026 00:00
 ||pendelleuchtens.com^
 ||pending-google.com^
 ||penguinnow.com^
+||penguinnow.store^
 ||penixmed.com^
 ||penny-at.com^
 ||pennydiy.com^
@@ -13421,6 +13422,7 @@ Stand: 21.05.2026 00:00
 ||skinsociety.shop^
 ||skinszone.net^
 ||skinwell.store^
+||skipped.vip^
 ||skiracedepartment.com^
 ||skirt-discount-store.shop^
 ||skispeichern.com^
@@ -14323,6 +14325,7 @@ Stand: 21.05.2026 00:00
 ||tcomplex.de^
 ||tddexpresslogistics.com^
 ||tdglobalcompany.io^
+||tdgrop168.vip^
 ||tdxsz.com^
 ||te.de^
 ||teachbrigh.com^

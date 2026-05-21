@@ -1,19 +1,7 @@
 version: 2
 updates:
-  # Überwacht deine GitHub Actions Workflows
+  # Überwacht deine GitHub Actions Workflows (falls du Automatisierungen im Repo hast)
   - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # Überwacht deine Docker-Images in Dockerfiles
-  - package-ecosystem: "docker"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # Überwacht deine npm Abhängigkeiten (Node.js)
-  - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"

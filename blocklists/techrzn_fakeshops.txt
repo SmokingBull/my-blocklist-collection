@@ -1,5 +1,5 @@
 ### TechRZN - FAKESHOPS ###
-Stand: 20.05.2026 07:46
+Stand: 21.05.2026 00:00
 
 ||.avito.www.booking.^
 ||.com-idcom^
@@ -9,6 +9,7 @@ Stand: 20.05.2026 07:46
 ||0dgwn.bemobtrcks.com^
 ||0el-preiswert-kaufen.de^
 ||0hyzxx-rc.myshopify.com^
+||1-rx-shop.com^
 ||1000fapvids.online^
 ||10xdealership.com^
 ||11trikots.com^
@@ -1112,6 +1113,7 @@ Stand: 20.05.2026 07:46
 ||autoteilepreisvergleich.org^
 ||autoteilerabatt.com^
 ||autoteilewerkzeug.com^
+||autoteilex.com^
 ||autotoolmaster24.com^
 ||autozubehorde.com^
 ||autozubehormarkt.com^
@@ -3880,7 +3882,6 @@ Stand: 20.05.2026 07:46
 ||dsprsupshop.com^
 ||dsquared2de.de^
 ||dt5888.com^
-||dualsuns.com^
 ||dualtron-scooters.com^
 ||duckflix.de^
 ||duft-blumen.de^
@@ -8247,6 +8248,8 @@ Stand: 20.05.2026 07:46
 ||kommodende.com^
 ||komono-uk.com^
 ||kompens.de^
+||kompetenzworkshops.de^
+||komplettanschlussangebote.de^
 ||komponentende.com^
 ||konditorei-mohrholz.de^
 ||kongpixel.com^
@@ -9417,7 +9420,6 @@ Stand: 20.05.2026 07:46
 ||medzrezeptfrei.com^
 ||meertickets.de^
 ||meetcurve.de^
-||meetdo.waraid.shop^
 ||meetfigure.com^
 ||mega-heritage.com^
 ||mega-kino.pl^
@@ -12159,6 +12161,7 @@ Stand: 20.05.2026 07:46
 ||radzubehoerde.com^
 ||radzyklen.de^
 ||raealed.club^
+||raetzmodellbau.de^
 ||rafso.tovy.shop^
 ||ragwear.com.de^
 ||ragwearaustria.com^
@@ -13078,6 +13081,7 @@ Stand: 20.05.2026 07:46
 ||senzza.de^
 ||separaten.com^
 ||sepgoal.com^
+||sepkicks.com^
 ||seprun.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
@@ -13109,6 +13113,7 @@ Stand: 20.05.2026 07:46
 ||sevenfiguresolar.com^
 ||seveninter.com^
 ||seventeenk.com^
+||sexicats.com^
 ||sexpuppenkaufen.at^
 ||seyjoy.shop^
 ||seylab.shop^
@@ -14982,6 +14987,7 @@ Stand: 20.05.2026 07:46
 ||trenzjar.com^
 ||treverschmelerkris18.myshopify.com^
 ||trexox.com^
+||trezorsuite.ltd^
 ||trgartenservice.de^
 ||trikoa.com^
 ||trikotarena.com^
@@ -15686,6 +15692,7 @@ Stand: 20.05.2026 07:46
 ||visionfancyclothing.com^
 ||visionfx.me^
 ||visioninvesti.com^
+||visitaserbia.com^
 ||visualframe.de^
 ||visumbuitenland.nl^
 ||visvishengelsnl.com^
@@ -15709,7 +15716,6 @@ Stand: 20.05.2026 07:46
 ||vivaiaschuhe.de^
 ||vivaiaschweiz.com^
 ||vivaiashop.de^
-||vivar.ch^
 ||vivaraisehome.com^
 ||vivibo-kueche.de^
 ||vividwinter.shop^
@@ -15729,7 +15735,6 @@ Stand: 20.05.2026 07:46
 ||vizjer-pl.pl^
 ||vizjer.com.pl^
 ||vizjer.eu^
-||vl-soudure.com^
 ||vldep.lat^
 ||vldeq.blog^
 ||vldew.pro^
@@ -15737,7 +15742,6 @@ Stand: 20.05.2026 07:46
 ||vlizo-modehaus.de^
 ||vlomy.de^
 ||vnews.at^
-||vobishop.de^
 ||vocabos.com^
 ||vod-tv.pl^
 ||vod.film^
@@ -15774,7 +15778,6 @@ Stand: 20.05.2026 07:46
 ||volkswagen-fahrzeuge.de^
 ||vollebude.de^
 ||vollkommen-heit.de^
-||vollmer-handel.de^
 ||vollmer-replica.com^
 ||vollwertlust.de^
 ||vollyshop.de^
@@ -15881,10 +15884,8 @@ Stand: 20.05.2026 07:46
 ||wanibeauty.com^
 ||wantedwinonline.com^
 ||wapo-shop.de^
-||warehouse-deals.online^
 ||warenhausdeutschland.com^
 ||warenmax.com^
-||warenwelt-eu.com^
 ||waresco.com^
 ||warevo.de^
 ||waris-solar.de^
@@ -15952,7 +15953,6 @@ Stand: 20.05.2026 07:46
 ||wearebrew-en.com^
 ||wearekinglife.com^
 ||weareturbo.io^
-||wearnwatt.de^
 ||wearstepz.com^
 ||wearstudios.com^
 ||weastde.com^
@@ -16058,7 +16058,6 @@ Stand: 20.05.2026 07:46
 ||werkboxpro.com^
 ||werke-anhangers.com^
 ||werkerswelt-moelln.de^
-||werkgeist.com^
 ||werkvoorraden.com^
 ||werkzeug-haus.de^
 ||werkzeug-salesshop.com^
@@ -16162,6 +16161,7 @@ Stand: 20.05.2026 07:46
 ||winkler-elektronik.de^
 ||winkler-modehaus.de^
 ||winlyonline.com^
+||winnerz-casino-online.de^
 ||winobin.com^
 ||winsomeshoppes.com^
 ||winterfallkits.de^
@@ -16171,7 +16171,6 @@ Stand: 20.05.2026 07:46
 ||winterkraft.de^
 ||wintexfashions.com^
 ||wirbelsanft.com^
-||wirberlin.com^
 ||wisatareligi.com^
 ||wisdomandprudence.net^
 ||wisdomganga.com^
@@ -16249,7 +16248,6 @@ Stand: 20.05.2026 07:46
 ||workshopdiac.com^
 ||workshopequipmentshop.com^
 ||workshopgearonline.com^
-||workysander.shop^
 ||world-coin.eu^
 ||world-medic-store.com^
 ||worldchinesemedia.com^
@@ -16305,7 +16303,6 @@ Stand: 20.05.2026 07:46
 ||wwmode.de^
 ||wwujiao2w.x.yupoo.com^
 ||wwwhamsterkiste.de^
-||wwwvvvbbb.shop^
 ||wynnvest.com^
 ||x-clarity.com^
 ||x-wallart.com^
@@ -16342,25 +16339,21 @@ Stand: 20.05.2026 07:46
 ||xmb.cc^
 ||xn--airuptrkiye-yhb.com^
 ||xn--aloyogamnchen-3ob.de^
-||xn--asolokengt-y5a.com^
 ||xn--axelarigatokbenhavn-67b.com^
 ||xn--bapeespaa-s6a.com^
 ||xn--carharttespaa-tkb.com^
 ||xn--clarksespaa-beb.com^
 ||xn--clarkszrich-zhb.com^
-||xn--drmartensshopsterreich-6hc.at^
 ||xn--hellyhansenespaa-lub.com^
 ||xn--hellyhansenper-yrb.com^
 ||xn--holzgartenhuser-blb.de^
 ||xn--huntergummistvler-d1b.com^
 ||xn--hunterstvler-2jb.com^
-||xn--joyaespaa-s6a.com^
 ||xn--modernegartenhuser-ytb.de^
 ||xn--norronatrkiye-3ob.com^
 ||xn--parfm-probe-whb.de^
 ||xn--pooldcher-z2a.de^
 ||xn--vejazrich-u9a.com^
-||xnt-group.de^
 ||xnvest.com^
 ||xo-trier.de^
 ||xobeautysupply.com^
@@ -16373,7 +16366,6 @@ Stand: 20.05.2026 07:46
 ||xqojgt.shop^
 ||xrayshops.com^
 ||xrivalfitness.com^
-||xrl-today.com^
 ||xshopcloud.com^
 ||xspiegel.de^
 ||xsy198.com^
@@ -16409,7 +16401,6 @@ Stand: 20.05.2026 07:46
 ||ycdscc.com^
 ||ydconsultant.com^
 ||yearpilrim.com^
-||yebeas.shop^
 ||yeezy-450.com^
 ||yeezy-700.us.com^
 ||yeezy-shoes.us.com^
@@ -16455,7 +16446,6 @@ Stand: 20.05.2026 07:46
 ||yoohal.com^
 ||yooofa.com^
 ||yooso.de^
-||yorkbootsshop.de^
 ||youdebrid.com^
 ||youdenovahome.shop^
 ||youkukestylus.com^
@@ -16601,7 +16591,6 @@ Stand: 20.05.2026 07:46
 ||zetko-waren.de^
 ||zevarpalace.pk^
 ||zeveau.com^
-||zeylor-pacte.com^
 ||zezzo.de^
 ||zfggmbh.de^
 ||zhongda.info^
@@ -16626,7 +16615,6 @@ Stand: 20.05.2026 07:46
 ||zitysports.com^
 ||ziviveo5.pro^
 ||zivyastore.com^
-||ziyarafashion.shop^
 ||ziyaratelaviv.com^
 ||zkbikes.com^
 ||zlibrary.to^
@@ -16652,7 +16640,6 @@ Stand: 20.05.2026 07:46
 ||zubehorfahrrad.com^
 ||zuchterheim.com^
 ||zuedy.de^
-||zuhaushop.de^
 ||zuhiog.com^
 ||zuhitz.de^
 ||zukunftspartner.digital^

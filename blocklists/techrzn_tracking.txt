@@ -1,5 +1,5 @@
 ### TechRZN - TRACKING ###
-Stand: 20.05.2026 07:46
+Stand: 21.05.2026 00:00
 
 ||-084-gls-223-www-9-k-0brasil.net.daraz.com^
 ||-access-logs-1.net.daraz.com^
@@ -27759,7 +27759,6 @@ Stand: 20.05.2026 07:46
 ||cdjbf8trk.com^
 ||cdjhcf.hometogo.es^
 ||cdkvgy.cotswoldoutdoor.us^
-||cdl.booksy.com^
 ||cdl.lvsafe.io^
 ||cdl2.booksy.com^
 ||cdlcli.sortmund.pl^
@@ -44555,7 +44554,6 @@ Stand: 20.05.2026 07:46
 ||god.jewelpalace.in^
 ||god.vsee.me^
 ||goddardsystems.tt.omtrdc.net^
-||goddesslamps.com^
 ||godev.steps.me^
 ||godiciardstia.com^
 ||godseedband.com^
@@ -72620,6 +72618,7 @@ Stand: 20.05.2026 07:46
 ||naturalhistorymuseum.tt.omtrdc.net^
 ||naturallife.tt.omtrdc.net^
 ||nature.safari.com^
+||naturebeans.com^
 ||nauticalfox.com^
 ||nautilus-car21.net.daraz.com^
 ||nautilus.a.ns.emailvision.net.daraz.com^
@@ -77021,6 +77020,7 @@ Stand: 20.05.2026 07:46
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
 ||pixel.cpex.cz^
+||pixel.dashfi.dev^
 ||pixel.dordham.com^
 ||pixel.driveniq.com^
 ||pixel.dugwood.com^
@@ -118276,6 +118276,7 @@ Stand: 20.05.2026 07:46
 ||wildcommittee.com^
 ||wildebeest.quarva.dev^
 ||wildlifereservessing.tt.omtrdc.net^
+||wildpetalfarm.com^
 ||wildwoodavenue.com^
 ||wiley.met.vgwort.de^
 ||wileypublishing.tt.omtrdc.net^
@@ -118439,6 +118440,7 @@ Stand: 20.05.2026 07:46
 ||woodtone.actonservice.com^
 ||woodward.actonservice.com^
 ||woof.psi-lekarna.cz^
+||woofweather.com^
 ||woolstapler.com^
 ||woosyt.portalesardegna.com^
 ||woowjy.desa.com.tr^
